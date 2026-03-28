@@ -1,1 +1,1 @@
-print("My Git project")
+print("My Git project...")
